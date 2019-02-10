@@ -1,3 +1,4 @@
+theme: jekyll-theme-hacker
 ## **Victor P.**
 **Junior Software Developer**
 
