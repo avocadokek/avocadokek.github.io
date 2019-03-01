@@ -19,3 +19,25 @@ Speaking of practical experience, I do not have such. I can stress a course proj
 4. Analytical skills.
 5. Ability to get knowledge in a fast way.
 
+
+### Tasks according to the course
+
+## PadawansTasks Repos:
+
+1. https://github.com/avocadokek/PadawansTask1
+2. https://github.com/avocadokek/PadawansTask2
+3. https://github.com/avocadokek/PadawansTask3
+4. https://github.com/avocadokek/PadawansTask4
+5. https://github.com/avocadokek/PadawansTask5
+6. https://github.com/avocadokek/PadawansTask6
+7. https://github.com/avocadokek/PadawansTask7
+8. 
+9. 
+10. https://github.com/avocadokek/PadawansTask10
+11. 
+12. 
+13. https://github.com/avocadokek/PadawansTask13
+14. FancyCalc: 
+15. 
+
+## Unit testing: 
